@@ -17,8 +17,4 @@ Program keeps the record of all exercises, and child's answers, black for correc
 
 Program has been extensively tested (by my daughter Jasna) for the past 3 months. She has been using it almost every day for 30-45 minutes daily.
 
-Provided here are 4 files:
-1)  math-quiz-vxxx.rkt - Racket (8.6) source code, which you can run directly from DrRacket IDE
-2)  math-quiz-vxxx.tgz - Linux (x86) exec (extract and cd to bin directory)
-3)  math-quiz-rpi-vxxx.tgz - Rasperry Pi (4B) exec (extract and cd to bin directory)
-4)  math-quiz-vxxx.zip - W10/11 exec
+Provided here is math-quiz-v2-8.rkt - Racket (8.6) source code, which you can run directly from DrRacket IDE
